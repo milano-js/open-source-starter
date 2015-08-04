@@ -6,7 +6,7 @@ What's inside:
 * ```.editorconfig```
 * ```.gitignore```
 * ```.travis.yml```
-* ```.CONTRIBUTING.md```
+* ```CONTRIBUTING.md```
 * ```LICENSE```
 
 Not sure about the right license for you project? Try [this](http://choosealicense.com/).
