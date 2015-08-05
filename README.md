@@ -1,5 +1,5 @@
 # Open Source Starter
-> All you need to start an Open Source project
+> All you need to start a JS Open Source project
 
 What's inside:
 
