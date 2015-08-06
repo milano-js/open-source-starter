@@ -6,6 +6,7 @@ What's inside:
 * ```.editorconfig```
 * ```.gitignore```
 * ```.travis.yml```
+* ```.jshintrc```
 * ```CONTRIBUTING.md```
 * ```LICENSE```
 
