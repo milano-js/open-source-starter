@@ -8,7 +8,8 @@
   },
   "scripts": {
     "test": "npm test",
-    "doc": "jsdoc ."
+    "doc": "jsdoc .; sensible-browser ./out/index.html",
+    "start": "echo 'insert here your start script'"
   },
   "repository": {
     "type": "git",
