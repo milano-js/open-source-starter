@@ -3,14 +3,25 @@
 
 What's inside:
 
-* ```.editorconfig```
-* ```.gitignore```
-* ```.travis.yml```
-* ```.jshintrc```
-* ```CONTRIBUTING.md```
-* ```LICENSE```
+* `.editorconfig`
+* `.eslintignore`
+* `.eslintrc`
+* `.gitignore`
+* `.travis.yml`
+* `CONTRIBUTING.md`
+* `LICENSE`
+* `index.js`
+* `package.json`
 
 Not sure about the right license for you project? Try [this](http://choosealicense.com/).
+
+## HOW TO USE
+
+Run `npm start` to execute this project.
+
+## DOCUMENTATION
+
+Run `npm run doc` to generate the project documentation and view it in the browser.
 
 ## License
 

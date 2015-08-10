@@ -1,0 +1,36 @@
+{
+  "name": "open-source-starter",
+  "version": "1.0.0",
+  "description": "All you need to start a JS Open Source project",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo 'insert here your test script'",
+    "doc": "jsdoc .; sensible-browser ./out/index.html",
+    "start": "echo 'insert here your start script'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:milano-js/open-source-starter.git"
+  },
+  "keywords": [
+    "opensource",
+    "javascript",
+    "js"
+  ],
+  "author": "Milano Js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/milano-js/open-source-starter/issues"
+  },
+  "homepage": "https://github.com/milano-js/open-source-starter",
+  "devDependencies": {
+    "babel-eslint": "^4.0.5",
+    "eslint": "^1.0.0",
+    "eslint-config-airbnb": "0.0.7",
+    "eslint-plugin-react": "^3.2.0",
+    "jsdoc": "^3.3.2"
+  }
+}
