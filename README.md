@@ -7,7 +7,6 @@ What's inside:
 * `.eslintignore`
 * `.eslintrc`
 * `.gitignore`
-* `.jshintrc`
 * `.travis.yml`
 * `CONTRIBUTING.md`
 * `LICENSE`
@@ -23,10 +22,6 @@ Run `npm start` to execute this project.
 ## DOCUMENTATION
 
 Run `npm run doc` to generate the project documentation and view it in the browser.
-
-## HOW TO CONTRIBUTE
-
-Write here the rules for contribute to this project
 
 ## License
 
