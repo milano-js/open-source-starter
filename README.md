@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/milano-js/open-source-starter.svg)](https://travis-ci.org/milano-js/open-source-starter) [![Deps](https://david-dm.org/milano-js/open-source-starter.svg)](https://david-dm.org/)
+
 # Open Source Starter
 > All you need to start a JS Open Source project
 
